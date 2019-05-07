@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "248537868216",
+    "firebase_url": "https://sportwin-1583a.firebaseio.com",
+    "project_id": "sportwin-1583a",
+    "storage_bucket": "sportwin-1583a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248537868216:android:41d8afd2466d3232",
+        "android_client_info": {
+          "package_name": "com.example.sportwin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248537868216-ip9q71ujhkg5br2c34tj4mr794o2ivac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sportwin",
+            "certificate_hash": "c598049f12443c1739707f9428a132b0c86492c5"
+          }
+        },
+        {
+          "client_id": "248537868216-7e6lhr863ocdrch84mk9t9k5vhih92uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPBY7Fn_WB78WVXuzCylSCCPAJossm0D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248537868216-7e6lhr863ocdrch84mk9t9k5vhih92uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
